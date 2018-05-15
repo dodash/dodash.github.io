@@ -10,4 +10,3 @@ Given below are major steps that you have to follow to start developing a OpenSo
 ## References
 * [Get Started Writing Gadgets](https://developers.google.com/gadgets/docs/gs)
 * [OpenSocial gadget Javascript API](http://opensocial.github.io/spec/2.5.1/Core-Gadget.xml#JavaScript-API-Reference)
-* [dodash.github.io wiki](https://github.com/dodash/dodash.github.io/wiki)
