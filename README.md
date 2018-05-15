@@ -1,4 +1,5 @@
-Welcome toGiven below are major steps that you have to follow to start developing a OpenSocial gadget for DevOps Dashboard:
+Welcome to DoDash
+Given below are major steps that you have to follow to start developing a OpenSocial gadget for DevOps Dashboard:
 1. Download DevOps Dashboard Beta by registering [here](http://www.cccqcommunity.com/dashboard_beta.html).
 2. Install and run the DevOps Dashboard. Refer to [Installation Guide](http://www.cccqcommunity.com/uploads/1/0/2/7/102707030/1.installation_guide.pdf) for the detailed steps.
 3. Install [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
