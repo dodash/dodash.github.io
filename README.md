@@ -6,3 +6,5 @@ Given below are major steps that you have to follow to start developing a OpenSo
 4. Install [Node.js](https://nodejs.org/en/download/).
 5. Choose any one of the repositories from among those listed under [gadget-catalog](https://github.com/dodash/gadget-catalog) based upon which JavaScript framework you are most comfortable with.
 6. Now clone the repository that you chose in the previous step and follow its README file to get started with developing your gadget
+
+Refer to [dodash.github.io wiki](https://github.com/dodash/dodash.github.io/wiki) for more documentation and tutorials
