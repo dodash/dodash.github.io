@@ -7,4 +7,7 @@ Given below are major steps that you have to follow to start developing a OpenSo
 5. Choose any one of the repositories from among those listed under [gadget-catalog](https://github.com/dodash/gadget-catalog) based upon which JavaScript framework you are most comfortable with.
 6. Now clone the repository that you chose in the previous step and follow its README file to get started with developing your gadget
 
-Refer to [dodash.github.io wiki](https://github.com/dodash/dodash.github.io/wiki) for more documentation and tutorials
+## References
+* [OpenSocial gadget Javascript API](http://opensocial.github.io/spec/2.5.1/Core-Gadget.xml#JavaScript-API-Reference)
+* [Get Started Writing Gadgets](https://developers.google.com/gadgets/docs/gs)
+* [dodash.github.io wiki](https://github.com/dodash/dodash.github.io/wiki)
