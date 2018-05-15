@@ -8,6 +8,6 @@ Given below are major steps that you have to follow to start developing a OpenSo
 6. Now clone the repository that you chose in the previous step and follow its README file to get started with developing your gadget
 
 ## References
-* [OpenSocial gadget Javascript API](http://opensocial.github.io/spec/2.5.1/Core-Gadget.xml#JavaScript-API-Reference)
 * [Get Started Writing Gadgets](https://developers.google.com/gadgets/docs/gs)
+* [OpenSocial gadget Javascript API](http://opensocial.github.io/spec/2.5.1/Core-Gadget.xml#JavaScript-API-Reference)
 * [dodash.github.io wiki](https://github.com/dodash/dodash.github.io/wiki)
